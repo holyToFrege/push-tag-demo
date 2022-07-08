@@ -75,3 +75,4 @@ To help you get your feet wet and get you familiar with our contribution process
 React is [MIT licensed](./LICENSE).
 
 added by hoyoul
+more added by hoyoul`
